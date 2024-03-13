@@ -37,7 +37,7 @@ export default function HomeScreen() {
     <View style={styles.container}>
       <View style={styles.headerRow}>
         <Text style={styles.subtitle}>Calories</Text>
-        <Text>1770 - 360 = 1692</Text>
+        <Text>1770 - 360 = 1410</Text>
       </View>
 
       <View style={styles.headerRow}>
